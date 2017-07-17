@@ -1,0 +1,9 @@
+{
+  "name": "treehousebot",
+  "version": "1.0.0",
+  "description": "The custom bot for \"skii's treehouse\".",
+  "main": "index.js",
+  "repository": "https://gitlab.com/moriczgergo/treehousebot.git",
+  "author": "skiilaa",
+  "license": "GPL-3.0"
+}
