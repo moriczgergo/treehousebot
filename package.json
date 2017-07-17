@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "https://gitlab.com/moriczgergo/treehousebot.git",
   "author": "skiilaa",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.2.6",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.0",
+    "ytdl-core": "^0.14.4"
+  }
 }
